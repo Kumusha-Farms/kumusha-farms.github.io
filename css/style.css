@@ -9,6 +9,28 @@
 /*EB Imported font for local use  */
 @import url(../css/googlefont.css);
 
+
+
+.bg-img-1 {
+    background-image: url(../images/greenleaf.jpg);
+}
+
+.bg-img-2 {
+    background-image: url(../images/seedlings.jpg);
+}
+
+.bg-img-3 {
+    background-image: url(../images/redleaf.jpg);
+}
+
+.carousel-image {
+    height: 100vh;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+
+
 .clearfix {
     zoom: 1;
 }

@@ -23,6 +23,10 @@
     background-image: url(../images/redleaf.jpg);
 }
 
+.fillscreen {
+    width: 100%;
+}
+
 .carousel-image {
     height: 100vh;
     background-repeat: no-repeat;
